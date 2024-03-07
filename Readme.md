@@ -1,4 +1,4 @@
-# Project Name: Advanced Material Development Platform
+# Project Name: Virtual lab for Advanced Material Development
 
 ## Description:
 Our project aims to revolutionize the process of advanced material development by leveraging cutting-edge technologies in natural language processing (NLP) and chemistry. By combining the power of AI-driven text generation with molecular modeling and analysis, our platform offers a comprehensive solution for predicting, designing, and optimizing novel materials with unprecedented speed and accuracy.
