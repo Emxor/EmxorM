@@ -20,14 +20,6 @@ Our project aims to revolutionize the process of advanced material development b
 
 8. [ChemDoodle](https://web.chemdoodle.com/): A web-based platform for molecular sketching and visualization, providing intuitive tools for creating and analyzing molecular structures within our development environment.
 
-## Usage:
-- Clone the repository and install the required dependencies.
-- Follow the documentation provided for each module to integrate them into your project.
-- Refer to the examples and tutorials for guidance on utilizing the functionalities offered by each technology.
-- Experiment with different configurations and parameters to optimize performance and achieve your material development objectives.
-
-## Contributions:
-We welcome contributions from the community to enhance and expand the capabilities of our platform. Feel free to submit pull requests, report issues, or reach out to us with any feedback or suggestions.
 
 ## License:
 This project is licensed under the [MIT License](LICENSE).
